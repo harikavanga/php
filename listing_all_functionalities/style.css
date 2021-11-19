@@ -1,0 +1,37 @@
+.form{
+   text-align: center;
+   border: 1px solid black;
+   margin-right: 400px;
+   margin-left: 400px;
+}
+.title{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.firstname{
+    margin-top: 20px;
+}
+.error{
+    color: red;
+}
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.submit{
+    margin-bottom: 20px;
+}
+.image{
+    text-align: center;
+}
+.create{
+    text-align: left;
+}
+.modify{
+    text-align: left;
+}
+.search{
+    text-align: right;
+}
